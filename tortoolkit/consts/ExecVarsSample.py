@@ -5,17 +5,17 @@ except:
         # Set true if its VPS
         IS_VPS = False
         
-        API_HASH = ""
-        API_ID = 0
-        BOT_TOKEN = ""
+        API_HASH = "965ff313790ad8d1971a8209c8dfcf85"
+        API_ID = 24512494
+        BOT_TOKEN = "5829460112:AAGWaONbfNO9RIdtAY9b6wyXHdH3xDIt6Zs"
         BASE_URL_OF_BOT = ""
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = []
-        OWNER_ID = 0
+        ALD_USR = [5193168915]
+        OWNER_ID = 5193168915
         
         # Google Drive Index Link should include the base dir also See readme for more info
         GD_INDEX_URL = False
@@ -24,7 +24,7 @@ except:
         EDIT_SLEEP_SECS = 40
 
         # Telegram Upload Limit (in bytes)
-        TG_UP_LIMIT = 1700000000
+        TG_UP_LIMIT = 214748364
 
         # Should force evething uploaded into Document
         FORCE_DOCUMENTS = False
